@@ -1,3 +1,7 @@
+# [v0.1.0] - 2024-2-27 [PR: #1](https://github.com/aksio-insurtech/Cratis/pull/1)
+
+Mainly to test if deploy still works after config-changes.
+
 # [v9.15.2] - 2024-1-14 [PR: #1065](https://github.com/aksio-insurtech/Cratis/pull/1065)
 
 ### Fixed
