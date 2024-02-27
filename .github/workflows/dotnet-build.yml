@@ -12,7 +12,7 @@ on:
     branches:
       - "**"
     paths:
-      - "Source/**"
+      - "**"
       - "!Source/Node/**"
       - "!Source/Workbench/**"
 
